@@ -8,7 +8,9 @@ I'm a computer science student who's passionate about learning new ideas and cre
 * Graphic design using Adobe Photoshop 🖼️
 
 #### Links
-* Visit my [LinkedIn](https://www.linkedin.com/in/andrea-limkinglam/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-limkinglam/)
+* [Behance](https://www.behance.net/stingraye)
+* [itch.io](https://stingraye.itch.io/)
 
 <!--
 **stingraye1106/stingraye1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
