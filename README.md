@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Hello! Welcome to my GitHub Profile! ✨
 
 <!--
 **stingraye1106/stingraye1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
