@@ -1,4 +1,4 @@
-## ✨ Hi there! I'm Rhea ✨
+### ✨ Hi there! I'm Rhea ✨
 I'm a computer science student who's passionate about learning new ideas and creating quality projects. During my free time, I self-study programming, digital art, and graphic design. 
 
 #### I am currently learning...
@@ -7,8 +7,8 @@ I'm a computer science student who's passionate about learning new ideas and cre
 * Digital illustrations using Clip Studio Paint and Adobe Illustrator 🎨
 * Graphic design using Adobe Photoshop 🖼️
 
-#### Contact info
-
+#### Links
+* Visit my [LinkedIn](https://www.linkedin.com/in/andrea-limkinglam/)
 
 <!--
 **stingraye1106/stingraye1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
