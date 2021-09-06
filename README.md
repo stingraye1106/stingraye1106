@@ -1,4 +1,8 @@
-## ✨ Hello! Welcome to my GitHub Profile! ✨
+## ✨ Hi there! I'm Rhea ✨
+I'm a computer science student who's passionate about learning new ideas and creating quality projects. During my free time, I self-study programming, digital art, and graphic design. 
+
+### I am currently studying...
+* Unity game development
 
 <!--
 **stingraye1106/stingraye1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
