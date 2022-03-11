@@ -6,8 +6,8 @@ I'm a fresh computer science graduate who's passionate about learning new ideas 
 
 #### I am currently learning...
 * Unity game development 🎮
-* Pixel art 👾
-* Digital illustrations using Clip Studio Paint and Adobe Illustrator 🎨
+* Pixel art for 2D games 👾
+* Digital illustrations using Clip Studio Paint 🎨
 * Graphic design using Adobe Photoshop 🖼️
 
 #### Links
