@@ -1,9 +1,12 @@
 ### ✨ Hi there! I'm Rhea ✨
-I'm a computer science student who's passionate about learning new ideas and creating quality projects. During my free time, I self-study programming, digital art, and graphic design. 
+I'm a fresh computer science graduate who's passionate about learning new ideas and creating quality projects. During my free time, I self-study programming, digital art, and graphic design. 
+
+#### I'm currently working on...
+* A small tea-brewing simulator featuring cute anthropomorphic cats 🐈
 
 #### I am currently learning...
 * Unity game development 🎮
-* 3D modeling with Blender 💻
+* Pixel art 👾
 * Digital illustrations using Clip Studio Paint and Adobe Illustrator 🎨
 * Graphic design using Adobe Photoshop 🖼️
 
