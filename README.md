@@ -13,6 +13,7 @@ I'm a game developer who's passionate about learning new ideas and creating qual
 #### Links
 * [LinkedIn](https://www.linkedin.com/in/andrea-limkinglam/)
 * [Behance](https://www.behance.net/stingraye)
+* [itch.io](https://stingraye.itch.io/)
 
 <!--
 **stingraye1106/stingraye1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
