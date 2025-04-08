@@ -1,18 +1,16 @@
 ### ✨ Hi there! I'm Rhea ✨
-I'm a game developer who's passionate about learning new ideas and creating quality projects. During my free time, I self-study programming, digital art, and graphic design. 
+I'm a game developer who's passionate about learning new ideas and creating quality projects. During my free time, I work on small personal projects. (On top of playing video games!)
 
-#### I'm currently working on...
-* A small tea-brewing simulator featuring cute anthropomorphic cats 🐈
+#### Skills I'm actively learning
+* Unity game development (2D and 3D) 🎮
+* Digital illustrations and 2D asset creation using Clip Studio Paint / Ibis Paint 🎨
 
-#### I am currently learning...
-* Unity game development 🎮
-* Pixel art for 2D games 👾
-* Digital illustrations using Clip Studio Paint 🎨
-* Graphic design using Adobe Photoshop 🖼️
+#### Skills I am open to explore
+* Game development in Unreal Engine / Godot
+* Pixel art for 2D games
 
 #### Links
 * [LinkedIn](https://www.linkedin.com/in/andrea-limkinglam/)
-* [Behance](https://www.behance.net/stingraye)
 * [itch.io](https://stingraye.itch.io/)
 
 <!--
